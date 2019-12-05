@@ -1,4 +1,4 @@
-# HomeCommingDay2019
+# HomeComingDay2019
 
 ## 모임 주제
 
