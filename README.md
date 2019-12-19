@@ -50,3 +50,11 @@ https://www.stsomething.com/calendar/calendar_month.html
 만약 못오시는 분이 계시면 미리 알려주세요. 까페에 미리 얘기해서 조절을 해야 합니다.
 각자 개인적으로 사진 찍으시면 저와 공유해주세요.
 기념품 아이디어나, 각종 기획 아이디어 의견 환영합니다.
+
+## 모임 후기 추가
+
+[모임 후기](https://github.com/jongfeel/HomeComingDay2019/blob/master/Review.md)
+
+## 회비 내역 및 잔여 금액 계산
+
+[회비 내역 및 잔액 계산(노션 페이지)](https://www.notion.so/jongfeel/fb146094001f40d9ab88cd94c73561ea?v=76b0dd8cd8fc49a6be0a85396924d33b)
